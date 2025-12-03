@@ -1,7 +1,7 @@
-# 🚀 AlimiaChain   
+# 🚀 alimiaChain   
 A Minimal Blockchain Architecture Demonstration (PoW + PoS + P2P)
 
-AlimiaChain is an educational blockchain project implemented in Go, showcasing three independent consensus and networking models:
+alimiaChain is an educational blockchain project implemented in Go, showcasing three independent consensus and networking models:
 
 - ⛏ **Proof of Work (PoW)** — hash-based computational mining  
 - 🪙 **Proof of Stake (PoS)** — stake-driven validator selection  
@@ -159,7 +159,6 @@ Only blocks that satisfy all validation conditions are appended to the blockchai
 The video below provides a concise overview of the system's operation, illustrating the core functionality and behavior in action.
 
 
-
 https://github.com/user-attachments/assets/76010705-4065-4e76-9163-3c16ae79c7ae
 
 
@@ -251,6 +250,7 @@ The video below presents a concise overview of the P2P module, demonstrating how
 
 
 https://github.com/user-attachments/assets/eb20be9e-241e-49df-93ac-ec0dd3b4210a
+
 
 
 
